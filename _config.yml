@@ -1,0 +1,14 @@
+layout_spectrum: 0
+color:
+  saturation: 1
+  lightness: 0
+  brandStrength: 0.8200859
+  brandColors:
+    - '#13131B'
+    - '#7092DA'
+    - '#FFFFFF'
+    - '#4162A9'
+    - '#ABBAD7'
+  rhythmicContrast: 0.2379162
+typography_spectrum: 0.4838883
+name: Echoalpha travels
